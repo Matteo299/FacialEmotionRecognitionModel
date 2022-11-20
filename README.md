@@ -1,0 +1,3 @@
+# FacialEmotionRecognitionModel
+Facial emotion recognition is the task of classifying the expressions on face images into various categories such as anger, fear, surprise, sadness, happiness and so on. <br>
+Face expression recognition is one of the most powerful and challenging tasks in social communication.<br> Generally, face expressions are natural and direct means for human beings to communicate their emotions and intentions. <br>This task can find some applications in business for example, since can provide valuable information about the sentiment of a target audience towards a marketing message, product or brand.
